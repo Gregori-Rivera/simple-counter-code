@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.bigCounter {
+    text-align: center;
+    background: gainsboro;
+}
+
+.bigCounter div {
+    display: inline-block;
+    font-size: 110px;
+    line-height: 100px;
+    /* height: 20px; */
+    background: gainsboro;
+    color:darkblue;
+    padding: 10px;
+    margin: auto;
+}
